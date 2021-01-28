@@ -18,6 +18,7 @@ class FlickVideoPlayer extends StatefulWidget {
       DeviceOrientation.portraitDown,
     ],
     this.preferredDeviceOrientationFullscreen = const [
+      DeviceOrientation.portraitUp,      
       DeviceOrientation.landscapeLeft,
       DeviceOrientation.landscapeRight
     ],
